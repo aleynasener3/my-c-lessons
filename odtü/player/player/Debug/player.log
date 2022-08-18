@@ -1,0 +1,3 @@
+﻿  player.cpp
+C:\Users\Aleyna\Desktop\c kodları\odtü\player\player\player.cpp(29,10): warning C4101: 'other': yerel değişken başvurusu kaldırıldı
+  player.vcxproj -> C:\Users\Aleyna\Desktop\c kodları\odtü\player\Debug\player.exe

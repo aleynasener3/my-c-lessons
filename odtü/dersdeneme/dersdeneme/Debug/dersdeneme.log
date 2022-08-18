@@ -1,0 +1,5 @@
+﻿  dersdeneme.cpp
+C:\Users\Aleyna\Desktop\c kodları\odtü\dersdeneme\dersdeneme\dersdeneme.cpp(26,21): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Aleyna\Desktop\c kodları\odtü\dersdeneme\dersdeneme\dersdeneme.cpp(27,20): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Aleyna\Desktop\c kodları\odtü\dersdeneme\dersdeneme\dersdeneme.cpp(28,20): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  dersdeneme.vcxproj -> C:\Users\Aleyna\Desktop\c kodları\odtü\dersdeneme\Debug\dersdeneme.exe
